@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 
 # --- STEP 1: THE DATA (With Scientific Uncertainty) ---
 # We are comparing two "Negative" metrics. Ideally, we want to be in the bottom-left corner.
-# GWP = Global Warming Potential (kg CO2 eq/kWh)
+# GWP = Global Warming Potential (kg ("CO\u2082") eq/kWh)
 # HTP = Human Toxicity Potential (kg 1,4-DB eq/kWh)
 
 # Data Points (Mean Values)
