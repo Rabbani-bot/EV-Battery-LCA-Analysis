@@ -11,4 +11,4 @@ This project utilizes Python to perform a comparative analysis of NCM811 and LFP
 ![Trade Off Chart](trade_off_chart.png)
 
 ## Methodology
-Data is simulated based on literature averages (ISO 14040 compliant boundaries). Uncertainty intervals represent standard deviations in mining efficiency.
+Inventory data are parameterised from literature averages (ISO 14040 compliant boundaries). Uncertainty intervals represent standard deviations in mining efficiency.
